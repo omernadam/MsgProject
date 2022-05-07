@@ -5,7 +5,7 @@ Web Application Course
 Omer Nadam 304850977
 Talia Ohana 318966231 
 
-##Description
+## Description
 This is a utomatic system for displaying messages on advertising screens.
 Each messages supports the following features:
 1. Message's name.
