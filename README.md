@@ -1,7 +1,7 @@
 # MsgProject
 Web Application Course
 
-**Students
+## Students
 Omer Nadam 304850977
 Talia Ohana 318966231 
 
