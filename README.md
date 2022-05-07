@@ -2,8 +2,8 @@
 Web Application Course
 
 ## Students
-Omer Nadam 304850977
-Talia Ohana 318966231 
+1. Omer Nadam 304850977
+2. Talia Ohana 318966231 
 
 ## Description
 This is a utomatic system for displaying messages on advertising screens.
